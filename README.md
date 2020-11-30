@@ -21,7 +21,6 @@
             k=0
 
             for i in range(t.size): #multiplication of signals
-                print(i)
                 if(t[i]==t1[j]):
                     y[i]+=x1[j]
                     if(t1[j]<np.max(t1)):
