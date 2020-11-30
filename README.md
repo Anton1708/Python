@@ -1,4 +1,4 @@
-# Multiplication of 2 discret signals
+# MultiSig.py : Multiplication of 2 discret signals
 
         #Example
         import matplotlib.pyplot as plt
